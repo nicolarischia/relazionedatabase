@@ -1,0 +1,2 @@
+collage=https://www.photofancy.it/modificare-foto/collage-foto
+icone=https://icons8.com/icons
