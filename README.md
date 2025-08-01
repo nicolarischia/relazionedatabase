@@ -1,20 +1,29 @@
-# Relazione Database 📘
+# 🗂️ Relazione Database 📘
 
-Questo progetto è una relazione scolastica realizzata sotto forma di **sito web HTML**. Lo scopo è spiegare in modo semplice e chiaro i concetti fondamentali di **database**, **DBMS** e il funzionamento di un sistema locale tramite **EasyPHP**.
+Questo progetto è una **relazione scolastica** sviluppata sotto forma di **sito web statico in HTML**.  
+L'obiettivo è spiegare in modo semplice e chiaro i concetti fondamentali di:
 
----
-
-## 📌 Obiettivi del progetto
-
-- Introdurre i concetti di **database relazionale**
-- Spiegare cosa sono e come funzionano i **DBMS** (Database Management System)
-- Illustrare l’uso di **EasyPHP** per simulare un ambiente di sviluppo locale
-- Fornire esempi e istruzioni su **SQL**, **tabelle**, **relazioni** e **query**
+- **Database** 🗃️  
+- **DBMS (Database Management System)** 🧠  
+- Il funzionamento di un sistema locale tramite **EasyPHP** 💻
 
 ---
 
-## 🧰 Tecnologie utilizzate
+## 🎯 Obiettivi del Progetto
 
-- `HTML` / `CSS` – Struttura e stile del sito
-- `EasyPHP` – Ambiente locale (Apache + MySQL)
-- `MySQL` – Sistema di gestione del database relazionale
+- 📚 Introdurre i concetti di **database relazionale**
+- 🛠️ Spiegare cosa sono e come funzionano i **DBMS**
+- 🖥️ Illustrare l’uso di **EasyPHP** per simulare un ambiente di sviluppo locale
+- 🧾 Fornire esempi e istruzioni pratiche su:
+  - Comandi **SQL**
+  - Creazione di **tabelle**
+  - Definizione di **relazioni**
+  - Esecuzione di **query**
+
+---
+
+## 🧰 Tecnologie Utilizzate
+
+- 🎨 `HTML` / `CSS` – Per la struttura e lo stile del sito
+- ⚙️ `EasyPHP` – Ambiente locale che include **Apache** e **MySQL**
+- 🛢️ `MySQL` – Sistema per la gestione del **database relazionale**
